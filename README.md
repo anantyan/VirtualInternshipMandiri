@@ -12,9 +12,12 @@
 
 ### 📌 Description
 
-Tugas akhir dari kegiatan Virtual Internship bersama Rakamin Academy x PT. Bank Mandiri (Persero), Tbk. Membuat sebuah project mengenai List Berita headline dan all news melalui Restful API (Newsapi.org). Untuk link youtube dokumentasi saya membuat sebuah project bisa dilihat [disini](https://youtu.be/-k3LK9RfRvs)
+The final project of the Virtual Internship activity with Rakamin Academy x PT. Bank Mandiri (Persero), Tbk. Creating a project about List News headlines and all news through Restful API (Newsapi.org). For the youtube link of my documentation of making a project can be seen [here](https://youtu.be/-k3LK9RfRvs)
 
-***note:*** Berhasil menerapkan design pattern **MVVM** ✔, berhasil menerapkan **Networking & Service Retrofit** ✔, berhasil menerapkan **Paging 3** untuk Infinite Scroll ✔, berhasil menerapkan **Clean Architecture** basic **✔** 
+***note:*** Successfully implemented **MVVM** design pattern ✔, successfully implemented **Networking & Service Retrofit** ✔, successfully implemented **Paging 3** for Infinite Scroll ✔, successfully implemented **Clean Architecture** basic **✔**
+*** Translated with www.DeepL.com/Translator (free version) ***
+
+
 
 ### 👣 Project Structure
 
